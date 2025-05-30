@@ -1,0 +1,2 @@
+# dns-rules.txt
+PPP PRIVATE NETWORK™ 2 DNS RULES TEXT.
