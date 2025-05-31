@@ -90,9 +90,8 @@ namespace pull
 
         private static void PullDirectList(string path, string placeholders)
         {
-            //Println("PULLING");
-            //Println("PULLED STATUS: " + (PullDirectListToLocalFile(path, placeholders, out int events) ? "OK" : "ER") + ", EVENTS: " + events);
-
+            Println("PULLING");
+            Println("PULLED STATUS: " + (PullDirectListToLocalFile(path, placeholders, out int events) ? "OK" : "ER") + ", EVENTS: " + events);
             Println("PUSHING");
             Git("status");
             Git("add .");
