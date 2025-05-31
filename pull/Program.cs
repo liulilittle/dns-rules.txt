@@ -67,14 +67,12 @@ namespace pull
             foreach (string i in list)
             {
                 events++;
-                if (string.IsNullOrEmpty(content))
+                if (!string.IsNullOrEmpty(content))
                 {
-                    content += i;
+                    content += "\r\n";
                 }
-                else
-                {
-                    content += "\r\n" + (i.PadRight(maxLineLength, ' ') + placeholders);
-                }
+
+                content += (i.PadRight(maxLineLength, ' ') + placeholders);
             }
 
             try
