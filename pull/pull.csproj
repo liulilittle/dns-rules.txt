@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PublishAot>true</PublishAot>
+    <IsAotCompatible>true</IsAotCompatible>
+    <InvariantGlobalization>true</InvariantGlobalization>
+    <PlatformTarget>x64</PlatformTarget>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+    <Title>PPP PRIVATE NETWORK™ 2 AUTOMATIC PULLING GEOSITE:DIRECT-LIST.</Title>
+    <Description>PPP PRIVATE NETWORK™ 2 AUTOMATIC PULLING GEOSITE:DIRECT-LIST.</Description>
+    <Company>SupersocksR LLC.</Company>
+    <Authors>SupersocksR LLC.</Authors>
+    <Copyright>Copyright (C) 2017 ~ 2055 SupersocksR ORG. All rights reserved.</Copyright>
+    <EnforceCodeStyleInBuild>False</EnforceCodeStyleInBuild>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "pull": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\dd\\dns-rules.txt",
+      "nativeDebugging": true
+    }
+  }
+}

@@ -1,0 +1,202 @@
+﻿using System.Diagnostics;
+using System.Net;
+using System.Security;
+using System.Text;
+
+namespace pull
+{
+    static class Program
+    {
+        private static void Println(string content)
+        {
+            Console.WriteLine("[" + DateTime.Now.ToString("yyyy/MM/dd HH:mm:ss") + "]" + content);
+        }
+
+        private static string PullDirectListText()
+        {
+#pragma warning disable IDE0090 // 使用 "new(...)"
+            using WebClient wc = new WebClient();
+#pragma warning restore IDE0090 // 使用 "new(...)"
+
+            try
+            {
+                return wc.DownloadString("https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/direct-list.txt");
+            }
+            catch (Exception)
+            {
+                return string.Empty;
+            }
+        }
+
+        private static bool PullDirectListToLocalFile(string path, string placeholders, out int events)
+        {
+            string texts = PullDirectListText();
+            events = 0;
+
+            if (string.IsNullOrEmpty(texts))
+            {
+                return false;
+            }
+
+            ISet<string> set = new HashSet<string>();
+            IList<string> list = new List<string>();
+            int maxLineLength = 0;
+
+            foreach (string line in texts.Split('\r', '\n'))
+            {
+                if (string.IsNullOrEmpty(line))
+                {
+                    continue;
+                }
+
+                if (set.Add(line))
+                {
+                    list.Add(line);
+                    maxLineLength = Math.Max(maxLineLength, line.Length);
+                }
+            }
+
+            if (list.Count < 1)
+            {
+                return false;
+            }
+
+            string content = string.Empty;
+            maxLineLength++;
+
+            foreach (string i in list)
+            {
+                events++;
+                if (string.IsNullOrEmpty(content))
+                {
+                    content += i;
+                }
+                else
+                {
+                    content += "\r\n" + (i.PadRight(maxLineLength, ' ') + placeholders);
+                }
+            }
+
+            try
+            {
+                File.WriteAllText(path, content, Encoding.Default);
+                return true;
+            }
+            catch (Exception)
+            {
+                return false;
+            }
+        }
+
+        private static void PullDirectList(string path, string placeholders)
+        {
+            //Println("PULLING");
+            //Println("PULLED STATUS: " + (PullDirectListToLocalFile(path, placeholders, out int events) ? "OK" : "ER") + ", EVENTS: " + events);
+
+            Println("PUSHING");
+            Git("status");
+            Git("add .");
+            Git("commit -m \"sync.\"");
+            Git(@"push -f");
+            Println("PUSHED");
+        }
+
+        private static bool Git(string arguments)
+        {
+            var processInfo = new ProcessStartInfo
+            {
+                FileName = "git",
+                Arguments = arguments,
+                WorkingDirectory = Environment.CurrentDirectory,
+                RedirectStandardOutput = true,
+                RedirectStandardError = true,
+                UseShellExecute = false,
+                CreateNoWindow = true
+            };
+
+            using var process = new Process();
+            try
+            {
+                process.StartInfo = processInfo;
+                process.OutputDataReceived +=
+                    (sender, e) =>
+                {
+                    if (e.Data != null)
+                    {
+                        Console.WriteLine(e.Data);
+                    }
+                };
+
+                process.ErrorDataReceived +=
+                    (sender, e) =>
+                {
+                    if (e.Data != null)
+                    {
+                        Console.WriteLine("ERROR: " + e.Data);
+                    }
+                };
+
+                process.Start();
+                process.BeginOutputReadLine();
+                process.BeginErrorReadLine();
+                process.WaitForExit();
+                return true;
+            }
+            catch (Exception)
+            {
+                return false;
+            }
+        }
+
+        [STAThread]
+        [SecurityCritical]
+        static void Main(string[] args)
+        {
+            string placeholders = string.Empty;
+            string path = string.Empty;
+            int interval = 0;
+
+            if (args.Length > 0)
+            {
+                path = args[0].TrimStart().TrimEnd();
+            }
+            else if (args.Length > 1)
+            {
+                placeholders = args[1].Trim();
+            }
+            else if (args.Length > 2)
+            {
+                if (!int.TryParse(args[2].Trim(), out interval))
+                {
+                    interval = 0;
+                }
+            }
+
+            if (interval < 1)
+            {
+                interval = 3600;
+            }
+
+            placeholders = placeholders.Trim();
+            if (string.IsNullOrEmpty(path))
+            {
+                path = "./dns-rules.txt";
+            }
+
+            path = Path.GetFullPath(path);
+            if (string.IsNullOrEmpty(placeholders))
+            {
+                placeholders = "/223.5.5.5/nic";
+            }
+
+            Console.Title = "PPP PRIVATE NETWORK™ 2 AUTOMATIC PULLING GEOSITE:DIRECT-LIST";
+            interval = (int)Math.Min(interval * 1000L, int.MaxValue);
+
+            for (; ; )
+            {
+                PullDirectList(path, placeholders);
+                Thread.Sleep(interval);
+            }
+        }
+    }
+}
