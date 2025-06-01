@@ -16,6 +16,25 @@
     <Authors>SupersocksR LLC.</Authors>
     <Copyright>Copyright (C) 2017 ~ 2055 SupersocksR ORG. All rights reserved.</Copyright>
     <EnforceCodeStyleInBuild>False</EnforceCodeStyleInBuild>
+    <Product>PPP PRIVATE NETWORK™ 2 AUTOMATIC PULLING GEOSITE:DIRECT-LIST.</Product>
+    <NeutralLanguage>en-US</NeutralLanguage>
+    <IncludeSymbols>False</IncludeSymbols>
+    <PackageId>$(AssemblyName)</PackageId>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
 
 </Project>

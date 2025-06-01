@@ -18,21 +18,30 @@ namespace pull
             using WebClient wc = new WebClient();
 #pragma warning restore IDE0090 // 使用 "new(...)"
 
-            try
+            foreach (string url in new string[] { "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/direct-list.txt", "https://cdn.jsdelivr.net/gh/Loyalsoldier/v2ray-rules-dat@release/direct-list.txt" })
             {
-                return wc.DownloadString("https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/direct-list.txt");
+                string texts;
+                try
+                {
+                    texts = wc.DownloadString(url);
+                }
+                catch (Exception)
+                {
+                    continue;
+                }
+
+                if (!string.IsNullOrEmpty(texts))
+                {
+                    return texts;
+                }
             }
-            catch (Exception)
-            {
-                return string.Empty;
-            }
+
+            return string.Empty;
         }
 
-        private static bool PullDirectListToLocalFile(string path, string placeholders, out int events)
+        private static bool PullDirectListToLocalFile(string texts, string path, string placeholders, out int events)
         {
-            string texts = PullDirectListText();
             events = 0;
-
             if (string.IsNullOrEmpty(texts))
             {
                 return false;
@@ -61,25 +70,24 @@ namespace pull
                 return false;
             }
 
-            string content = string.Empty;
+            StringBuilder content = new StringBuilder();
             maxLineLength++;
 
             foreach (string i in list)
             {
+                string segment = i.PadRight(maxLineLength, ' ') + placeholders;
+                if (content.Length > 0)
+                {
+                    segment = "\r\n" + segment;
+                }
+
                 events++;
-                if (string.IsNullOrEmpty(content))
-                {
-                    content += i;
-                }
-                else
-                {
-                    content += "\r\n" + (i.PadRight(maxLineLength, ' ') + placeholders);
-                }
+                content.Append(segment);
             }
 
             try
             {
-                File.WriteAllText(path, content, Encoding.Default);
+                File.WriteAllText(path, content.ToString(), Encoding.Default);
                 return true;
             }
             catch (Exception)
@@ -91,7 +99,14 @@ namespace pull
         private static void PullDirectList(string path, string placeholders)
         {
             Println("PULLING");
-            Println("PULLED STATUS: " + (PullDirectListToLocalFile(path, placeholders, out int events) ? "OK" : "ER") + ", EVENTS: " + events);
+            for (; ; )
+            {
+                string texts = PullDirectListText();
+                Println("PROCESSING");
+                Println("PULLED STATUS: " + (PullDirectListToLocalFile(texts, path, placeholders, out int events) ? "OK" : "ER") + ", EVENTS: " + events);
+                break;
+            }
+
             Println("PUSHING");
             Git("status");
             Git("add .");
@@ -193,8 +208,11 @@ namespace pull
 
             for (; ; )
             {
+                Stopwatch sw = Stopwatch.StartNew();
+                sw.Start();
                 PullDirectList(path, placeholders);
-                Thread.Sleep(interval);
+                sw.Stop();
+                Thread.Sleep((int)(interval - sw.ElapsedMilliseconds));
             }
         }
     }
