@@ -6046,6 +6046,7 @@
 5551557.com                                                          /223.5.5.5/nic
 5552200.com                                                          /223.5.5.5/nic
 55552121.com                                                         /223.5.5.5/nic
+55555.ink                                                            /223.5.5.5/nic
 55555.io                                                             /223.5.5.5/nic
 55555432.com                                                         /223.5.5.5/nic
 55555558.com                                                         /223.5.5.5/nic
@@ -7166,6 +7167,7 @@
 6tu.com                                                              /223.5.5.5/nic
 6uudy.com                                                            /223.5.5.5/nic
 6v.com                                                               /223.5.5.5/nic
+6v520.net                                                            /223.5.5.5/nic
 6v6.work                                                             /223.5.5.5/nic
 6vdyg.com                                                            /223.5.5.5/nic
 6vdyy.com                                                            /223.5.5.5/nic
@@ -10041,6 +10043,7 @@ afdian.net                                                           /223.5.5.5/
 afdiancdn.com                                                        /223.5.5.5/nic
 afdsc.com                                                            /223.5.5.5/nic
 afdvr.com                                                            /223.5.5.5/nic
+afeica.com                                                           /223.5.5.5/nic
 afengblog.com                                                        /223.5.5.5/nic
 afengsoft.com                                                        /223.5.5.5/nic
 afenxi.com                                                           /223.5.5.5/nic
@@ -11031,6 +11034,7 @@ akbkgame.com                                                         /223.5.5.5/
 akcomemetals.com                                                     /223.5.5.5/nic
 akdashang.vip                                                        /223.5.5.5/nic
 akdns.net                                                            /223.5.5.5/nic
+akeeps.com                                                           /223.5.5.5/nic
 akesobio.com                                                         /223.5.5.5/nic
 akey.im                                                              /223.5.5.5/nic
 akey.me                                                              /223.5.5.5/nic
@@ -13475,6 +13479,7 @@ b1bj.com                                                             /223.5.5.5/
 b1n.net                                                              /223.5.5.5/nic
 b1qg.com                                                             /223.5.5.5/nic
 b23.tv                                                               /223.5.5.5/nic
+b29gj.com                                                            /223.5.5.5/nic
 b2b-builder.com                                                      /223.5.5.5/nic
 b2b.biz                                                              /223.5.5.5/nic
 b2b123.com                                                           /223.5.5.5/nic
@@ -17379,6 +17384,7 @@ boyuanchemical.com                                                   /223.5.5.5/
 boyuanjiaxin.com                                                     /223.5.5.5/nic
 boyue.com                                                            /223.5.5.5/nic
 boyuecasting.com                                                     /223.5.5.5/nic
+boyuemobile.com                                                      /223.5.5.5/nic
 boyuesh.com                                                          /223.5.5.5/nic
 boyuguandao.com                                                      /223.5.5.5/nic
 boyunso.com                                                          /223.5.5.5/nic
@@ -23821,6 +23827,7 @@ cnautofinance.com                                                    /223.5.5.5/
 cnautonews.com                                                       /223.5.5.5/nic
 cnautotool.com                                                       /223.5.5.5/nic
 cnb.cool                                                             /223.5.5.5/nic
+cnb.space                                                            /223.5.5.5/nic
 cnbabylon.com                                                        /223.5.5.5/nic
 cnball.net                                                           /223.5.5.5/nic
 cnbanbao.com                                                         /223.5.5.5/nic
@@ -27940,6 +27947,7 @@ dashgame.com                                                         /223.5.5.5/
 dashi518.com                                                         /223.5.5.5/nic
 dashigame.com                                                        /223.5.5.5/nic
 dashikou.com                                                         /223.5.5.5/nic
+dashisx.com                                                          /223.5.5.5/nic
 dashitech.com                                                        /223.5.5.5/nic
 dashiyou.com                                                         /223.5.5.5/nic
 dashu.com                                                            /223.5.5.5/nic
@@ -29615,6 +29623,7 @@ diyicai.com                                                          /223.5.5.5/
 diyidan.com                                                          /223.5.5.5/nic
 diyidan.net                                                          /223.5.5.5/nic
 diyidanhao.com                                                       /223.5.5.5/nic
+diyiedu.com                                                          /223.5.5.5/nic
 diyifanwen.com                                                       /223.5.5.5/nic
 diyifanwen.net                                                       /223.5.5.5/nic
 diyigaokao.com                                                       /223.5.5.5/nic
@@ -32617,6 +32626,7 @@ eiixx.com                                                            /223.5.5.5/
 eijiucq.com                                                          /223.5.5.5/nic
 eilieili.cc                                                          /223.5.5.5/nic
 eimoney.com                                                          /223.5.5.5/nic
+einfo-tech.com                                                       /223.5.5.5/nic
 eingdong.com                                                         /223.5.5.5/nic
 einkcn.com                                                           /223.5.5.5/nic
 einsteintiles.com                                                    /223.5.5.5/nic
@@ -34911,6 +34921,7 @@ fengshankeji.com                                                     /223.5.5.5/
 fengshi8888.com                                                      /223.5.5.5/nic
 fengshigroup.com                                                     /223.5.5.5/nic
 fengsung.com                                                         /223.5.5.5/nic
+fengsutb.com                                                         /223.5.5.5/nic
 fengtai.tv                                                           /223.5.5.5/nic
 fengtalk.com                                                         /223.5.5.5/nic
 fengtao365.com                                                       /223.5.5.5/nic
@@ -36079,6 +36090,7 @@ friendeye.com                                                        /223.5.5.5/
 friends-exchange.com                                                 /223.5.5.5/nic
 friends8.com                                                         /223.5.5.5/nic
 friendship-match.com                                                 /223.5.5.5/nic
+frigate-cn.video                                                     /223.5.5.5/nic
 fright-tattoo.com                                                    /223.5.5.5/nic
 fringe-zero.com                                                      /223.5.5.5/nic
 frisobaby.com                                                        /223.5.5.5/nic
@@ -39140,6 +39152,7 @@ gmmicro.com                                                          /223.5.5.5/
 gmmsj.com                                                            /223.5.5.5/nic
 gmmtcc.com                                                           /223.5.5.5/nic
 gmoe.cc                                                              /223.5.5.5/nic
+gmoj.net                                                             /223.5.5.5/nic
 gmonline-all.com                                                     /223.5.5.5/nic
 gmpanel.com                                                          /223.5.5.5/nic
 gmpbj.com                                                            /223.5.5.5/nic
@@ -40120,6 +40133,7 @@ gtfund.com                                                           /223.5.5.5/
 gtg56.com                                                            /223.5.5.5/nic
 gtgqw.com                                                            /223.5.5.5/nic
 gtgres.com                                                           /223.5.5.5/nic
+gtht.com                                                             /223.5.5.5/nic
 gthzc.com                                                            /223.5.5.5/nic
 gti56.com                                                            /223.5.5.5/nic
 gtibee.com                                                           /223.5.5.5/nic
@@ -44526,6 +44540,7 @@ haomove.com                                                          /223.5.5.5/
 haomzl.com                                                           /223.5.5.5/nic
 haonames.com                                                         /223.5.5.5/nic
 haonic.com                                                           /223.5.5.5/nic
+haoniu1.com                                                          /223.5.5.5/nic
 haonongzi.com                                                        /223.5.5.5/nic
 haopeixun.com                                                        /223.5.5.5/nic
 haopianyi.com                                                        /223.5.5.5/nic
@@ -58094,6 +58109,7 @@ julang88.com                                                         /223.5.5.5/
 julanggroup.com                                                      /223.5.5.5/nic
 julanhp.com                                                          /223.5.5.5/nic
 julanling.com                                                        /223.5.5.5/nic
+julebu.co                                                            /223.5.5.5/nic
 julecn.com                                                           /223.5.5.5/nic
 julefun.com                                                          /223.5.5.5/nic
 juli-china.com                                                       /223.5.5.5/nic
@@ -60188,6 +60204,7 @@ kkmh.com                                                             /223.5.5.5/
 kkmicro.com                                                          /223.5.5.5/nic
 kkmop.com                                                            /223.5.5.5/nic
 kkong.vip                                                            /223.5.5.5/nic
+kkrb.net                                                             /223.5.5.5/nic
 kksmg.com                                                            /223.5.5.5/nic
 kksofts.com                                                          /223.5.5.5/nic
 kkt.com                                                              /223.5.5.5/nic
@@ -68838,6 +68855,7 @@ modelarts-maas.com                                                   /223.5.5.5/
 modelevel.com                                                        /223.5.5.5/nic
 modelltd.com                                                         /223.5.5.5/nic
 modelones.com                                                        /223.5.5.5/nic
+modelscope.net                                                       /223.5.5.5/nic
 modelwhale.com                                                       /223.5.5.5/nic
 modeng178.com                                                        /223.5.5.5/nic
 modengtianshi.com                                                    /223.5.5.5/nic
@@ -74170,6 +74188,7 @@ oumoo.com                                                            /223.5.5.5/
 ounh.org                                                             /223.5.5.5/nic
 ounoe.com                                                            /223.5.5.5/nic
 ounuoyq.com                                                          /223.5.5.5/nic
+ouo7.com                                                             /223.5.5.5/nic
 ouou.com                                                             /223.5.5.5/nic
 ouou.icu                                                             /223.5.5.5/nic
 ououbet.com                                                          /223.5.5.5/nic
@@ -74238,6 +74257,7 @@ ourplay.net                                                          /223.5.5.5/
 ourqm.com                                                            /223.5.5.5/nic
 ourren.com                                                           /223.5.5.5/nic
 oursakura.com                                                        /223.5.5.5/nic
+ourschool.cc                                                         /223.5.5.5/nic
 oursec1.com                                                          /223.5.5.5/nic
 oursec2.com                                                          /223.5.5.5/nic
 ourselec.com                                                         /223.5.5.5/nic
@@ -77488,7 +77508,9 @@ qianxinet.com                                                        /223.5.5.5/
 qianxingniwo.com                                                     /223.5.5.5/nic
 qianxingwl.com                                                       /223.5.5.5/nic
 qianxs.com                                                           /223.5.5.5/nic
+qianxuecloud.com                                                     /223.5.5.5/nic
 qianxuew.com                                                         /223.5.5.5/nic
+qianxueyunke.com                                                     /223.5.5.5/nic
 qianxun.com                                                          /223.5.5.5/nic
 qianxunclub.com                                                      /223.5.5.5/nic
 qianxungroup.com                                                     /223.5.5.5/nic
@@ -79643,6 +79665,7 @@ r5g.cc                                                               /223.5.5.5/
 r5k.com                                                              /223.5.5.5/nic
 r5tao.com                                                            /223.5.5.5/nic
 r77777777.com                                                        /223.5.5.5/nic
+r8hr7.net                                                            /223.5.5.5/nic
 r9t1.com                                                             /223.5.5.5/nic
 ra022.com                                                            /223.5.5.5/nic
 ra2ol.com                                                            /223.5.5.5/nic
@@ -87982,6 +88005,7 @@ ssine.ink                                                            /223.5.5.5/
 ssipex.com                                                           /223.5.5.5/nic
 ssis.asia                                                            /223.5.5.5/nic
 ssish.com                                                            /223.5.5.5/nic
+ssjj2.com                                                            /223.5.5.5/nic
 ssjjss.com                                                           /223.5.5.5/nic
 ssjjtt.com                                                           /223.5.5.5/nic
 ssjlicai.com                                                         /223.5.5.5/nic
@@ -88268,6 +88292,7 @@ sticksgame.com                                                       /223.5.5.5/
 stjinfa.com                                                          /223.5.5.5/nic
 stjinguan.com                                                        /223.5.5.5/nic
 stjjxh.com                                                           /223.5.5.5/nic
+stkfanli.com                                                         /223.5.5.5/nic
 stklt.com                                                            /223.5.5.5/nic
 stlb520.com                                                          /223.5.5.5/nic
 stmaoyi.com                                                          /223.5.5.5/nic
@@ -91606,6 +91631,7 @@ tencentcloudapi.com                                                  /223.5.5.5/
 tencentcloudbase.com                                                 /223.5.5.5/nic
 tencentcloudclub.com                                                 /223.5.5.5/nic
 tencentcloudcr.com                                                   /223.5.5.5/nic
+tencentcloudga.com                                                   /223.5.5.5/nic
 tencentcloudmarket.com                                               /223.5.5.5/nic
 tencentcloudns.com                                                   /223.5.5.5/nic
 tencentcloudsec.com                                                  /223.5.5.5/nic
@@ -96523,6 +96549,7 @@ virosin.org                                                          /223.5.5.5/
 virscan.org                                                          /223.5.5.5/nic
 virtaicloud.com                                                      /223.5.5.5/nic
 virtualevent.net                                                     /223.5.5.5/nic
+virtualworld.pub                                                     /223.5.5.5/nic
 virtupharmako.com                                                    /223.5.5.5/nic
 virusdefender.net                                                    /223.5.5.5/nic
 vis.zone                                                             /223.5.5.5/nic
@@ -102740,6 +102767,7 @@ xiaohuabaichu.com                                                    /223.5.5.5/
 xiaohuabuluo.com                                                     /223.5.5.5/nic
 xiaohuai.com                                                         /223.5.5.5/nic
 xiaohuangji.com                                                      /223.5.5.5/nic
+xiaohuazhuo.com                                                      /223.5.5.5/nic
 xiaohucloud.com                                                      /223.5.5.5/nic
 xiaohufev.com                                                        /223.5.5.5/nic
 xiaohulu.com                                                         /223.5.5.5/nic
@@ -106123,6 +106151,7 @@ xzrcyy.com                                                           /223.5.5.5/
 xzrdwq.com                                                           /223.5.5.5/nic
 xzriit.com                                                           /223.5.5.5/nic
 xzrsks.com                                                           /223.5.5.5/nic
+xzsckj.com                                                           /223.5.5.5/nic
 xzsdszx.com                                                          /223.5.5.5/nic
 xzsdyyy.com                                                          /223.5.5.5/nic
 xzsec.com                                                            /223.5.5.5/nic
@@ -106907,6 +106936,7 @@ yd126.com                                                            /223.5.5.5/
 yd166.com                                                            /223.5.5.5/nic
 ydalison.com                                                         /223.5.5.5/nic
 ydamc.com                                                            /223.5.5.5/nic
+ydayc.com                                                            /223.5.5.5/nic
 ydbimg.com                                                           /223.5.5.5/nic
 ydbmed.com                                                           /223.5.5.5/nic
 ydbox.com                                                            /223.5.5.5/nic
@@ -113336,6 +113366,7 @@ zhixin2019.com                                                       /223.5.5.5/
 zhixingapp.com                                                       /223.5.5.5/nic
 zhixingit.com                                                        /223.5.5.5/nic
 zhixingjj88.com                                                      /223.5.5.5/nic
+zhixingyunke.com                                                     /223.5.5.5/nic
 zhixiu.net                                                           /223.5.5.5/nic
 zhixuan.com                                                          /223.5.5.5/nic
 zhixue.com                                                           /223.5.5.5/nic
