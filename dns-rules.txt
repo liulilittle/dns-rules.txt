@@ -28125,8 +28125,14 @@ dckygroup.com                                                        /223.5.5.5/
 dcloud.io                                                            /223.5.5.5/nic
 dcloud.xin                                                           /223.5.5.5/nic
 dcloudlive.com                                                       /223.5.5.5/nic
+dcloudlive.net                                                       /223.5.5.5/nic
 dclouds.cloud                                                        /223.5.5.5/nic
+dcloudsp.com                                                         /223.5.5.5/nic
+dcloudsp.net                                                         /223.5.5.5/nic
 dcloudstc.com                                                        /223.5.5.5/nic
+dcloudstc.net                                                        /223.5.5.5/nic
+dcloudvod.com                                                        /223.5.5.5/nic
+dcloudvod.net                                                        /223.5.5.5/nic
 dclygroup.com                                                        /223.5.5.5/nic
 dcmagcn.com                                                          /223.5.5.5/nic
 dcmk17.com                                                           /223.5.5.5/nic
@@ -45821,7 +45827,10 @@ herllamo-med.com                                                     /223.5.5.5/
 herllamo.com                                                         /223.5.5.5/nic
 hermod1.com                                                          /223.5.5.5/nic
 hero-geek.com                                                        /223.5.5.5/nic
+hero.com                                                             /223.5.5.5/nic
 herocoming.com                                                       /223.5.5.5/nic
+heroesports.com                                                      /223.5.5.5/nic
+herogame.com                                                         /223.5.5.5/nic
 herohr.net                                                           /223.5.5.5/nic
 heroic-ltd.com                                                       /223.5.5.5/nic
 heroje.com                                                           /223.5.5.5/nic
@@ -52199,7 +52208,6 @@ imlianai.com                                                         /223.5.5.5/
 imliuyi.com                                                          /223.5.5.5/nic
 imlizhi.com                                                          /223.5.5.5/nic
 immeee.com                                                           /223.5.5.5/nic
-immersivetranslate.com                                               /223.5.5.5/nic
 immfast.com                                                          /223.5.5.5/nic
 immi520.com                                                          /223.5.5.5/nic
 immiexpo.com                                                         /223.5.5.5/nic
@@ -85450,6 +85458,7 @@ shyuwl.com                                                           /223.5.5.5/
 shyuzhai.com                                                         /223.5.5.5/nic
 shywly.com                                                           /223.5.5.5/nic
 shyx-bio.com                                                         /223.5.5.5/nic
+shyxhy.com                                                           /223.5.5.5/nic
 shyxi5.com                                                           /223.5.5.5/nic
 shyxwz.com                                                           /223.5.5.5/nic
 shyy6688.com                                                         /223.5.5.5/nic
@@ -113407,6 +113416,7 @@ zhuanhuamao.com                                                      /223.5.5.5/
 zhuanhuanqi.com                                                      /223.5.5.5/nic
 zhuanhuanqi.net                                                      /223.5.5.5/nic
 zhuaniao.com                                                         /223.5.5.5/nic
+zhuaninc.com                                                         /223.5.5.5/nic
 zhuankeapp.com                                                       /223.5.5.5/nic
 zhuankebang.com                                                      /223.5.5.5/nic
 zhuankezu.com                                                        /223.5.5.5/nic
