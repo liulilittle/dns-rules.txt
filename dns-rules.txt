@@ -52384,7 +52384,6 @@ inferoey.com                                                         /223.5.5.5/
 infertilitybridge.com                                                /223.5.5.5/nic
 infimotion.com                                                       /223.5.5.5/nic
 infineon-autoeco.com                                                 /223.5.5.5/nic
-infineon.com                                                         /223.5.5.5/nic
 infini-ai.com                                                        /223.5.5.5/nic
 infinisign.com                                                       /223.5.5.5/nic
 infinitescript.com                                                   /223.5.5.5/nic
@@ -91784,7 +91783,6 @@ thztv.net                                                            /223.5.5.5/
 thzu.cc                                                              /223.5.5.5/nic
 ti-node.com                                                          /223.5.5.5/nic
 ti-solar.com                                                         /223.5.5.5/nic
-ti.com                                                               /223.5.5.5/nic
 ti0s.com                                                             /223.5.5.5/nic
 ti4la.icu                                                            /223.5.5.5/nic
 tiamaes.com                                                          /223.5.5.5/nic
