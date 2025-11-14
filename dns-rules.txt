@@ -27111,6 +27111,7 @@ cztrjs.com                                                           /223.5.5.5/
 cztv.cc                                                              /223.5.5.5/nic
 cztv.com                                                             /223.5.5.5/nic
 cztv.tv                                                              /223.5.5.5/nic
+cztvcdn.com                                                          /223.5.5.5/nic
 cztvcloud.com                                                        /223.5.5.5/nic
 cztzkg.com                                                           /223.5.5.5/nic
 czur.com                                                             /223.5.5.5/nic
@@ -37917,6 +37918,7 @@ geekluo.com                                                          /223.5.5.5/
 geekmaker.com                                                        /223.5.5.5/nic
 geekman.vip                                                          /223.5.5.5/nic
 geeknev.com                                                          /223.5.5.5/nic
+geekpark                                                             /223.5.5.5/nic
 geekpark.net                                                         /223.5.5.5/nic
 geekpwn.org                                                          /223.5.5.5/nic
 geeksblog.cc                                                         /223.5.5.5/nic
@@ -90783,7 +90785,6 @@ tapque.com                                                           /223.5.5.5/
 tapsvc.com                                                           /223.5.5.5/nic
 taptap-api.com                                                       /223.5.5.5/nic
 taptap.com                                                           /223.5.5.5/nic
-taptap.io                                                            /223.5.5.5/nic
 taptapcode.com                                                       /223.5.5.5/nic
 taptapdada.com                                                       /223.5.5.5/nic
 tapulsads.ru                                                         /223.5.5.5/nic
@@ -92304,7 +92305,6 @@ tinywan.com                                                          /223.5.5.5/
 tinyyuan.com                                                         /223.5.5.5/nic
 tipaipai.com                                                         /223.5.5.5/nic
 tipask.com                                                           /223.5.5.5/nic
-tipdim.org                                                           /223.5.5.5/nic
 tipdm.com                                                            /223.5.5.5/nic
 tipdm.org                                                            /223.5.5.5/nic
 tipray.com                                                           /223.5.5.5/nic
@@ -116268,6 +116268,8 @@ full:a2.mzstatic.com                                                 /223.5.5.5/
 full:a3.mzstatic.com                                                 /223.5.5.5/nic
 full:a4.mzstatic.com                                                 /223.5.5.5/nic
 full:a5.mzstatic.com                                                 /223.5.5.5/nic
+full:activate.activation-v2.kaspersky.com                            /223.5.5.5/nic
+full:activation-v2.geo.kaspersky.com                                 /223.5.5.5/nic
 full:activation-v2.kaspersky.com                                     /223.5.5.5/nic
 full:adcdownload.apple.com                                           /223.5.5.5/nic
 full:adcdownload.apple.com.akadns.net                                /223.5.5.5/nic
@@ -116381,6 +116383,11 @@ full:ctldl.windowsupdate.com                                         /223.5.5.5/
 full:cueme-api.quark.cn                                              /223.5.5.5/nic
 full:customization-cdn.dell.com                                      /223.5.5.5/nic
 full:dartsearch-cn.net                                               /223.5.5.5/nic
+full:dc1-cert.ksn.kaspersky-labs.com                                 /223.5.5.5/nic
+full:dc1-file.ksn.kaspersky-labs.com                                 /223.5.5.5/nic
+full:dc1-pp.ksn.kaspersky-labs.com                                   /223.5.5.5/nic
+full:dc1-st.ksn.kaspersky-labs.com                                   /223.5.5.5/nic
+full:dc1.ksn.kaspersky-labs.com                                      /223.5.5.5/nic
 full:dd-cdn.origin-apple.com.akadns.net                              /223.5.5.5/nic
 full:dds.dell.com                                                    /223.5.5.5/nic
 full:dejavu.apple.com                                                /223.5.5.5/nic
@@ -116426,6 +116433,7 @@ full:downloaddispatch.itunes.apple.com                               /223.5.5.5/
 full:ea2cn-dev-outlet.dell.com                                       /223.5.5.5/nic
 full:ea2cn-prod-outlet.dell.com                                      /223.5.5.5/nic
 full:ea2cn-staging-outlet.dell.com                                   /223.5.5.5/nic
+full:edge.geo.kaspersky.com                                          /223.5.5.5/nic
 full:emmapplecodevice.googleapis.com                                 /223.5.5.5/nic
 full:emoi-cncdn.bing.com                                             /223.5.5.5/nic
 full:experiments.apple.com                                           /223.5.5.5/nic
@@ -116548,9 +116556,29 @@ full:js-cdn.music.apple.com                                          /223.5.5.5/
 full:kc.kexinshe.com                                                 /223.5.5.5/nic
 full:km.support.apple.com                                            /223.5.5.5/nic
 full:ksn-cinfo-geo.kaspersky-labs.com                                /223.5.5.5/nic
+full:ksn-cinfo.geoksn.kaspersky.com                                  /223.5.5.5/nic
+full:ksn-crypto-info-geo.kaspersky-labs.com                          /223.5.5.5/nic
+full:ksn-crypto-kas-geo.kaspersky-labs.com                           /223.5.5.5/nic
+full:ksn-crypto-tcert-geo.kaspersky-labs.com                         /223.5.5.5/nic
+full:ksn-crypto-url-geo.kaspersky-labs.com                           /223.5.5.5/nic
+full:ksn-crypto-verdict-geo.kaspersky-labs.com                       /223.5.5.5/nic
+full:ksn-crypto-wifiplus-geo.kaspersky-labs.com                      /223.5.5.5/nic
+full:ksn-crypto-wifiplus.geoksn.kaspersky.com                        /223.5.5.5/nic
+full:ksn-dc1-cert.geoksn.kaspersky.com                               /223.5.5.5/nic
+full:ksn-dc1-file.geoksn.kaspersky.com                               /223.5.5.5/nic
+full:ksn-dc1.geoksn.kaspersky.com                                    /223.5.5.5/nic
 full:ksn-file-geo.kaspersky-labs.com                                 /223.5.5.5/nic
+full:ksn-file.geoksn.kaspersky.com                                   /223.5.5.5/nic
+full:ksn-info-geo.kaspersky-labs.com                                 /223.5.5.5/nic
+full:ksn-info.geoksn.kaspersky.com                                   /223.5.5.5/nic
+full:ksn-kas.geoksn.kaspersky.com                                    /223.5.5.5/nic
+full:ksn-mdr.geoksn.kaspersky.com                                    /223.5.5.5/nic
+full:ksn-tcert-geo.kaspersky-labs.com                                /223.5.5.5/nic
+full:ksn-tcert.geoksn.kaspersky.com                                  /223.5.5.5/nic
 full:ksn-url-geo.kaspersky-labs.com                                  /223.5.5.5/nic
+full:ksn-url.geoksn.kaspersky.com                                    /223.5.5.5/nic
 full:ksn-verdict-geo.kaspersky-labs.com                              /223.5.5.5/nic
+full:ksn-verdict.geoksn.kaspersky.com                                /223.5.5.5/nic
 full:l2-uberproxy.corp.google.com                                    /223.5.5.5/nic
 full:learn.microsoft.com                                             /223.5.5.5/nic
 full:logger-dev.corp.google.com                                      /223.5.5.5/nic
@@ -116559,6 +116587,7 @@ full:login.corp.google.com                                           /223.5.5.5/
 full:lv.queniujq.cn                                                  /223.5.5.5/nic
 full:manga.bilibili.com                                              /223.5.5.5/nic
 full:maps.apple.com                                                  /223.5.5.5/nic
+full:mdr.ksn.kaspersky-labs.com                                      /223.5.5.5/nic
 full:menu-static.gog-statics.com                                     /223.5.5.5/nic
 full:mesu-cdn.apple.com.akadns.net                                   /223.5.5.5/nic
 full:mesu-china.apple.com.akadns.net                                 /223.5.5.5/nic
@@ -116670,6 +116699,7 @@ full:redirector.gvt1.com                                             /223.5.5.5/
 full:redirector.offline-maps.gvt1.com                                /223.5.5.5/nic
 full:redirector.snap.gvt1.com                                        /223.5.5.5/nic
 full:redirector.xn--ngstr-lra8j.com                                  /223.5.5.5/nic
+full:refresh-bkg.activation-v2.kaspersky.com                         /223.5.5.5/nic
 full:res-1.cdn.office.net                                            /223.5.5.5/nic
 full:res.cdn.office.net                                              /223.5.5.5/nic
 full:reserve-prime.apple.com                                         /223.5.5.5/nic
