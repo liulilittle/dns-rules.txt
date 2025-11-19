@@ -11976,6 +11976,7 @@ anyv.net                                                             /223.5.5.5/
 anyview.net                                                          /223.5.5.5/nic
 anyway.fm                                                            /223.5.5.5/nic
 anyway.red                                                           /223.5.5.5/nic
+anywlan.com                                                          /223.5.5.5/nic
 anywood.com                                                          /223.5.5.5/nic
 anyxz.com                                                            /223.5.5.5/nic
 anzerclub.com                                                        /223.5.5.5/nic
