@@ -25694,6 +25694,7 @@ cqshulan.com                                                         /223.5.5.5/
 cqshyzx.com                                                          /223.5.5.5/nic
 cqsifang.com                                                         /223.5.5.5/nic
 cqsj365.com                                                          /223.5.5.5/nic
+cqsjb.com                                                            /223.5.5.5/nic
 cqsjbc.com                                                           /223.5.5.5/nic
 cqsjky.com                                                           /223.5.5.5/nic
 cqsjnzx.com                                                          /223.5.5.5/nic
@@ -102049,6 +102050,7 @@ xhjt.com                                                             /223.5.5.5/
 xhkt.tv                                                              /223.5.5.5/nic
 xhlaowu.com                                                          /223.5.5.5/nic
 xhlcsl.com                                                           /223.5.5.5/nic
+xhlsgs.com                                                           /223.5.5.5/nic
 xhma.com                                                             /223.5.5.5/nic
 xhmedia.com                                                          /223.5.5.5/nic
 xhmwxy.com                                                           /223.5.5.5/nic
@@ -103569,6 +103571,7 @@ xinwenke.com                                                         /223.5.5.5/
 xinwenku.com                                                         /223.5.5.5/nic
 xinwenlianbo.tv                                                      /223.5.5.5/nic
 xinwo.com                                                            /223.5.5.5/nic
+xinwuji.com                                                          /223.5.5.5/nic
 xinwulan.com                                                         /223.5.5.5/nic
 xinxe.com                                                            /223.5.5.5/nic
 xinxi28.com                                                          /223.5.5.5/nic
@@ -108680,6 +108683,7 @@ yoka.com                                                             /223.5.5.5/
 yokacdn.com                                                          /223.5.5.5/nic
 yokagames.com                                                        /223.5.5.5/nic
 yokaimg.com                                                          /223.5.5.5/nic
+yokaverse.com                                                        /223.5.5.5/nic
 yokechina.com                                                        /223.5.5.5/nic
 yokmob.com                                                           /223.5.5.5/nic
 yokong.com                                                           /223.5.5.5/nic
