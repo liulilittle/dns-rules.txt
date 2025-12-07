@@ -44567,6 +44567,7 @@ hapierxia.com                                                        /223.5.5.5/
 hapingapp.com                                                        /223.5.5.5/nic
 hapipixia.com                                                        /223.5.5.5/nic
 hapiyixia.com                                                        /223.5.5.5/nic
+hapjs.org                                                            /223.5.5.5/nic
 haplat.net                                                           /223.5.5.5/nic
 happi123.com                                                         /223.5.5.5/nic
 happigo.com                                                          /223.5.5.5/nic
@@ -116462,7 +116463,6 @@ full:avail.googleflights.net                                         /223.5.5.5/
 full:b.c2r.ts.cdn.office.net                                         /223.5.5.5/nic
 full:bag-cdn.itunes-apple.com.akadns.net                             /223.5.5.5/nic
 full:bag.itunes.apple.com                                            /223.5.5.5/nic
-full:bbs.ztedevices.com                                              /223.5.5.5/nic
 full:beacons.gcp.gvt2.com                                            /223.5.5.5/nic
 full:beacons.gvt2.com                                                /223.5.5.5/nic
 full:beacons2.gvt2.com                                               /223.5.5.5/nic
@@ -117002,7 +117002,6 @@ full:www.microsoft.com                                               /223.5.5.5/
 full:www.pxcc.com                                                    /223.5.5.5/nic
 full:www.recaptcha.net                                               /223.5.5.5/nic
 full:www.support.apple.com                                           /223.5.5.5/nic
-full:www.ztedevices.com                                              /223.5.5.5/nic
 full:www4-static.gog-statics.com                                     /223.5.5.5/nic
 full:xn--flw351e.com                                                 /223.5.5.5/nic
 full:xp.apple.com                                                    /223.5.5.5/nic
