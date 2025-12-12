@@ -7340,7 +7340,6 @@
 75ll.com                                                             /223.5.5.5/nic
 75n474.com                                                           /223.5.5.5/nic
 75pk.com                                                             /223.5.5.5/nic
-75team.com                                                           /223.5.5.5/nic
 75ww.com                                                             /223.5.5.5/nic
 75xn.com                                                             /223.5.5.5/nic
 76065.com                                                            /223.5.5.5/nic
@@ -17996,7 +17995,6 @@ bytedance.org                                                        /223.5.5.5/
 bytedanceapi.com                                                     /223.5.5.5/nic
 bytedancehermestest.com                                              /223.5.5.5/nic
 bytedancevod.com                                                     /223.5.5.5/nic
-bytedapm.com                                                         /223.5.5.5/nic
 bytedcdn.com                                                         /223.5.5.5/nic
 bytedeliver.com                                                      /223.5.5.5/nic
 bytedgames.com                                                       /223.5.5.5/nic
