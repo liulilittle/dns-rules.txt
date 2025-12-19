@@ -69045,6 +69045,7 @@ moonton.com                                                          /223.5.5.5/
 moontonapp.com                                                       /223.5.5.5/nic
 moontontech.net                                                      /223.5.5.5/nic
 moonvy.com                                                           /223.5.5.5/nic
+moonvy.cool                                                          /223.5.5.5/nic
 moooc.cc                                                             /223.5.5.5/nic
 mooooc.com                                                           /223.5.5.5/nic
 mooool.com                                                           /223.5.5.5/nic
