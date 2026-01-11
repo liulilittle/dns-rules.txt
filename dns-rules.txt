@@ -19512,6 +19512,7 @@ cf69.com                                                             /223.5.5.5/
 cfachina.org                                                         /223.5.5.5/nic
 cfanlost.com                                                         /223.5.5.5/nic
 cfbond.com                                                           /223.5.5.5/nic
+cfc108.com                                                           /223.5.5.5/nic
 cfc365.com                                                           /223.5.5.5/nic
 cfca-c.org                                                           /223.5.5.5/nic
 cfccd.com                                                            /223.5.5.5/nic
@@ -31220,6 +31221,7 @@ easytimetv.com                                                       /223.5.5.5/
 easytite.com                                                         /223.5.5.5/nic
 easytocn.com                                                         /223.5.5.5/nic
 easytogophuket.com                                                   /223.5.5.5/nic
+easytomessage.com                                                    /223.5.5.5/nic
 easytouch-manager.com                                                /223.5.5.5/nic
 easytouch.com                                                        /223.5.5.5/nic
 easytrip.com                                                         /223.5.5.5/nic
@@ -34879,6 +34881,7 @@ fnkslift.com                                                         /223.5.5.5/
 fnkvision.com                                                        /223.5.5.5/nic
 fnmobi.com                                                           /223.5.5.5/nic
 fnnas.com                                                            /223.5.5.5/nic
+fnnas.net                                                            /223.5.5.5/nic
 fnnsh.com                                                            /223.5.5.5/nic
 fnnspa.com                                                           /223.5.5.5/nic
 fnos.net                                                             /223.5.5.5/nic
@@ -67357,6 +67360,7 @@ moboplayer.com                                                       /223.5.5.5/
 mobotap.com                                                          /223.5.5.5/nic
 mobring.co                                                           /223.5.5.5/nic
 mobrtb.com                                                           /223.5.5.5/nic
+mobsdks.com                                                          /223.5.5.5/nic
 mobsurl.com                                                          /223.5.5.5/nic
 mobtou.com                                                           /223.5.5.5/nic
 mobvoi.com                                                           /223.5.5.5/nic
@@ -80434,6 +80438,7 @@ school51.com                                                         /223.5.5.5/
 school888.com                                                        /223.5.5.5/nic
 schoolinweb.com                                                      /223.5.5.5/nic
 schoolpi.net                                                         /223.5.5.5/nic
+schoopia.com                                                         /223.5.5.5/nic
 schstv.com                                                           /223.5.5.5/nic
 scht.cc                                                              /223.5.5.5/nic
 schwarzeni.com                                                       /223.5.5.5/nic
@@ -89166,6 +89171,7 @@ tapafun.com                                                          /223.5.5.5/
 tapai.com                                                            /223.5.5.5/nic
 tapaijiu.com                                                         /223.5.5.5/nic
 tapapis.com                                                          /223.5.5.5/nic
+tapapks.com                                                          /223.5.5.5/nic
 tapas.net                                                            /223.5.5.5/nic
 tapbooster.net                                                       /223.5.5.5/nic
 tapdata.net                                                          /223.5.5.5/nic
@@ -91242,6 +91248,7 @@ tongxiong.com                                                        /223.5.5.5/
 tongxue.com                                                          /223.5.5.5/nic
 tongxue365.com                                                       /223.5.5.5/nic
 tongxue8.com                                                         /223.5.5.5/nic
+tongxuepie.com                                                       /223.5.5.5/nic
 tongyangship.com                                                     /223.5.5.5/nic
 tongyaoplay.com                                                      /223.5.5.5/nic
 tongyavisa.com                                                       /223.5.5.5/nic
