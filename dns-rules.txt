@@ -60783,6 +60783,7 @@ lbsrmyy.com                                                          /223.5.5.5/
 lbswjt.com                                                           /223.5.5.5/nic
 lbszx.com                                                            /223.5.5.5/nic
 lbtek.com                                                            /223.5.5.5/nic
+lbtp.com                                                             /223.5.5.5/nic
 lbu.cc                                                               /223.5.5.5/nic
 lbv1.com                                                             /223.5.5.5/nic
 lbwbw.com                                                            /223.5.5.5/nic
@@ -69908,13 +69909,6 @@ nike-inc.com.tw                                                      /223.5.5.5/
 nike.host                                                            /223.5.5.5/nic
 nikefans.com                                                         /223.5.5.5/nic
 niketracking.com                                                     /223.5.5.5/nic
-nikke-de.com                                                         /223.5.5.5/nic
-nikke-en.com                                                         /223.5.5.5/nic
-nikke-fr.com                                                         /223.5.5.5/nic
-nikke-global.com                                                     /223.5.5.5/nic
-nikke-jp.com                                                         /223.5.5.5/nic
-nikke-kr.com                                                         /223.5.5.5/nic
-nikke-sea.com                                                        /223.5.5.5/nic
 nikkisoft.com                                                        /223.5.5.5/nic
 nikkiup2u2.com                                                       /223.5.5.5/nic
 nikkon-china.com                                                     /223.5.5.5/nic
