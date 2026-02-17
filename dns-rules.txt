@@ -28251,6 +28251,7 @@ ddbqgtxt.cc                                                          /223.5.5.5/
 ddcdn.com                                                            /223.5.5.5/nic
 ddcheshi.com                                                         /223.5.5.5/nic
 ddcits.com                                                           /223.5.5.5/nic
+ddcorp.net                                                           /223.5.5.5/nic
 ddcsjw.com                                                           /223.5.5.5/nic
 ddcwl.com                                                            /223.5.5.5/nic
 ddd-china.com                                                        /223.5.5.5/nic
@@ -28267,6 +28268,7 @@ dde-desktop.org                                                      /223.5.5.5/
 ddedush.com                                                          /223.5.5.5/nic
 ddfans.com                                                           /223.5.5.5/nic
 ddfchina.com                                                         /223.5.5.5/nic
+ddfresh.net                                                          /223.5.5.5/nic
 ddfzb.com                                                            /223.5.5.5/nic
 ddgjjj.com                                                           /223.5.5.5/nic
 ddguanhuai.com                                                       /223.5.5.5/nic
@@ -28290,7 +28292,9 @@ ddkt365.com                                                          /223.5.5.5/
 ddky.com                                                             /223.5.5.5/nic
 ddle.cc                                                              /223.5.5.5/nic
 ddlequ.com                                                           /223.5.5.5/nic
+ddmaicai.net                                                         /223.5.5.5/nic
 ddmap.com                                                            /223.5.5.5/nic
+ddmc.mobi                                                            /223.5.5.5/nic
 ddmer.com                                                            /223.5.5.5/nic
 ddmogo.com                                                           /223.5.5.5/nic
 ddnddn.com                                                           /223.5.5.5/nic
@@ -51975,6 +51979,7 @@ imagineadtech.com                                                    /223.5.5.5/
 imags-google.com                                                     /223.5.5.5/nic
 imahui.com                                                           /223.5.5.5/nic
 imaibo.net                                                           /223.5.5.5/nic
+imaicai.mobi                                                         /223.5.5.5/nic
 imaijia.com                                                          /223.5.5.5/nic
 imaitu.com                                                           /223.5.5.5/nic
 imalljoy.com                                                         /223.5.5.5/nic
@@ -79396,7 +79401,6 @@ redmagic.com                                                         /223.5.5.5/
 redmart.com                                                          /223.5.5.5/nic
 redmou.com                                                           /223.5.5.5/nic
 rednetdns.com                                                        /223.5.5.5/nic
-rednotecdn.com                                                       /223.5.5.5/nic
 redocn.com                                                           /223.5.5.5/nic
 redodopower.com                                                      /223.5.5.5/nic
 redoop.com                                                           /223.5.5.5/nic
@@ -112549,6 +112553,7 @@ zhipianbang.com                                                      /223.5.5.5/
 zhipianbang.vip                                                      /223.5.5.5/nic
 zhipin.com                                                           /223.5.5.5/nic
 zhipingke.com                                                        /223.5.5.5/nic
+zhipucn.com                                                          /223.5.5.5/nic
 zhipuzi.com                                                          /223.5.5.5/nic
 zhiqi.info                                                           /223.5.5.5/nic
 zhiqiang.org                                                         /223.5.5.5/nic
