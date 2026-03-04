@@ -2250,6 +2250,7 @@
 17293879b10261.beer                                                  /223.5.5.5/nic
 172haoka.vip                                                         /223.5.5.5/nic
 172l.com                                                             /223.5.5.5/nic
+172mix.com                                                           /223.5.5.5/nic
 172tt.com                                                            /223.5.5.5/nic
 172xiaoyuan.com                                                      /223.5.5.5/nic
 173.com                                                              /223.5.5.5/nic
@@ -58654,6 +58655,7 @@ juziseo.com                                                          /223.5.5.5/
 juziss.com                                                           /223.5.5.5/nic
 juzistore.com                                                        /223.5.5.5/nic
 juzisy.com                                                           /223.5.5.5/nic
+juziwulian.com                                                       /223.5.5.5/nic
 juzix.io                                                             /223.5.5.5/nic
 juzizhoutou.net                                                      /223.5.5.5/nic
 juzone.cc                                                            /223.5.5.5/nic
