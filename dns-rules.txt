@@ -6418,6 +6418,7 @@
 52playgame.com                                                       /223.5.5.5/nic
 52pojie.com                                                          /223.5.5.5/nic
 52post.com                                                           /223.5.5.5/nic
+52ppt.com                                                            /223.5.5.5/nic
 52qixiang.com                                                        /223.5.5.5/nic
 52qmct.com                                                           /223.5.5.5/nic
 52qqba.com                                                           /223.5.5.5/nic
@@ -14699,6 +14700,7 @@ bademeiji.com                                                        /223.5.5.5/
 badmintoncn.com                                                      /223.5.5.5/nic
 badmintone.com                                                       /223.5.5.5/nic
 badong.net                                                           /223.5.5.5/nic
+badou.com                                                            /223.5.5.5/nic
 badouxueyuan.com                                                     /223.5.5.5/nic
 badu.com                                                             /223.5.5.5/nic
 badudns.cc                                                           /223.5.5.5/nic
@@ -45734,6 +45736,7 @@ haohanjx.com                                                         /223.5.5.5/
 haohanpower.tech                                                     /223.5.5.5/nic
 haohanstar.com                                                       /223.5.5.5/nic
 haohao8888.com                                                       /223.5.5.5/nic
+haohaodoc.com                                                        /223.5.5.5/nic
 haohaotuan.com                                                       /223.5.5.5/nic
 haohaowan.com                                                        /223.5.5.5/nic
 haohaowan.net                                                        /223.5.5.5/nic
@@ -63172,6 +63175,7 @@ lazycat.cloud                                                        /223.5.5.5/
 lazycatmicroserver.com                                               /223.5.5.5/nic
 lazycomposer.com                                                     /223.5.5.5/nic
 lazydim.com                                                          /223.5.5.5/nic
+lazyer.net                                                           /223.5.5.5/nic
 lazymap.com                                                          /223.5.5.5/nic
 lazyren.com                                                          /223.5.5.5/nic
 lazystones.com                                                       /223.5.5.5/nic
@@ -100143,6 +100147,7 @@ wenjuanbang.com                                                      /223.5.5.5/
 wenjuanshow.com                                                      /223.5.5.5/nic
 wenjuntech.com                                                       /223.5.5.5/nic
 wenkaoba.com                                                         /223.5.5.5/nic
+wenkeju.com                                                          /223.5.5.5/nic
 wenku.in                                                             /223.5.5.5/nic
 wenku.net                                                            /223.5.5.5/nic
 wenku365.com                                                         /223.5.5.5/nic
