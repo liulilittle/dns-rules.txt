@@ -34634,13 +34634,11 @@ esou.biz                                                             /223.5.5.5/
 esoua.com                                                            /223.5.5.5/nic
 esound.vip                                                           /223.5.5.5/nic
 esouou.com                                                           /223.5.5.5/nic
-esp8266.com                                                          /223.5.5.5/nic
 espeedpost.com                                                       /223.5.5.5/nic
 esplus.club                                                          /223.5.5.5/nic
 espnlol.com                                                          /223.5.5.5/nic
 esports-console.com                                                  /223.5.5.5/nic
 esportsreg.com                                                       /223.5.5.5/nic
-espressif.com                                                        /223.5.5.5/nic
 esr.com                                                              /223.5.5.5/nic
 essaystar.com                                                        /223.5.5.5/nic
 essca.com                                                            /223.5.5.5/nic
