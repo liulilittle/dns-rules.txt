@@ -12832,6 +12832,7 @@ anhuiry.com                                                          /223.5.5.5/
 anhuisjx.com                                                         /223.5.5.5/nic
 anhuisuya.com                                                        /223.5.5.5/nic
 anhuiwine.com                                                        /223.5.5.5/nic
+anhuiyun.com                                                         /223.5.5.5/nic
 anhuizk.com                                                          /223.5.5.5/nic
 ani-sh.com                                                           /223.5.5.5/nic
 aniccw.net                                                           /223.5.5.5/nic
@@ -65815,7 +65816,6 @@ loushi.com                                                           /223.5.5.5/
 lousj.com                                                            /223.5.5.5/nic
 lousw.com                                                            /223.5.5.5/nic
 louyue.com                                                           /223.5.5.5/nic
-lovart.ai                                                            /223.5.5.5/nic
 lovcuty.com                                                          /223.5.5.5/nic
 love-freedom.com                                                     /223.5.5.5/nic
 love-math-edu.com                                                    /223.5.5.5/nic
@@ -104290,7 +104290,6 @@ xiaomicp.com                                                         /223.5.5.5/
 xiaomidns.com                                                        /223.5.5.5/nic
 xiaomidns.net                                                        /223.5.5.5/nic
 xiaomiev.com                                                         /223.5.5.5/nic
-xiaomiflash.com                                                      /223.5.5.5/nic
 xiaomiinc.net                                                        /223.5.5.5/nic
 xiaomimimo.com                                                       /223.5.5.5/nic
 xiaomimobile.com                                                     /223.5.5.5/nic
@@ -118031,6 +118030,7 @@ full:crls.pki.goog                                                   /223.5.5.5/
 full:csi.gstatic.com                                                 /223.5.5.5/nic
 full:cstat.apple.com                                                 /223.5.5.5/nic
 full:cstat.cdn-apple.com                                             /223.5.5.5/nic
+full:ctdsb.clouddiffuse.xyz                                          /223.5.5.5/nic
 full:ctldl.windowsupdate.com                                         /223.5.5.5/nic
 full:cueme-api.quark.cn                                              /223.5.5.5/nic
 full:customization-cdn.dell.com                                      /223.5.5.5/nic
@@ -118204,6 +118204,7 @@ full:is5.mzstatic.com                                                /223.5.5.5/
 full:itunes-apple.com.akadns.net                                     /223.5.5.5/nic
 full:itunes.apple.com                                                /223.5.5.5/nic
 full:itunesconnect.apple.com                                         /223.5.5.5/nic
+full:izattime.qcomgeo2.com                                           /223.5.5.5/nic
 full:js-cdn.music.apple.com                                          /223.5.5.5/nic
 full:km.support.apple.com                                            /223.5.5.5/nic
 full:ksn-cinfo-geo.kaspersky-labs.com                                /223.5.5.5/nic
@@ -118499,6 +118500,7 @@ full:www.support.apple.com                                           /223.5.5.5/
 full:www4-static.gog-statics.com                                     /223.5.5.5/nic
 full:xn--flw351e.com                                                 /223.5.5.5/nic
 full:xp.apple.com                                                    /223.5.5.5/nic
+full:xtratime.qcomgeo2.com                                           /223.5.5.5/nic
 full:xz.pphimalayanrt.com                                            /223.5.5.5/nic
 regexp:.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$                  /223.5.5.5/nic
 regexp:.+\.awsdns-cn-[0-9][a-e0-9]\.cn$                              /223.5.5.5/nic
