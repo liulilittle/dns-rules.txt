@@ -13818,6 +13818,7 @@ azt365.com                                                           /223.5.5.5/
 azuiblc.com                                                          /223.5.5.5/nic
 azure-wave.com                                                       /223.5.5.5/nic
 azure.cc                                                             /223.5.5.5/nic
+azureflame.cloud                                                     /223.5.5.5/nic
 azureflying.com                                                      /223.5.5.5/nic
 azuremigrate.download.prss.microsoft.com                             /223.5.5.5/nic
 azuremigratetest.download.prss.microsoft.com                         /223.5.5.5/nic
@@ -16415,6 +16416,7 @@ bjanjili.com                                                         /223.5.5.5/
 bjartmuseum.com                                                      /223.5.5.5/nic
 bjatv.com                                                            /223.5.5.5/nic
 bjbaidianfeng.com                                                    /223.5.5.5/nic
+bjbaifan.com                                                         /223.5.5.5/nic
 bjbalb.com                                                           /223.5.5.5/nic
 bjbaodao.net                                                         /223.5.5.5/nic
 bjbb.com                                                             /223.5.5.5/nic
@@ -18852,6 +18854,7 @@ cangdu.org                                                           /223.5.5.5/
 cangfengzhe.com                                                      /223.5.5.5/nic
 canghaiip.com                                                        /223.5.5.5/nic
 canghaimachine.com                                                   /223.5.5.5/nic
+cangjggame.com                                                       /223.5.5.5/nic
 canglanghospital.com                                                 /223.5.5.5/nic
 cangmang.xyz                                                         /223.5.5.5/nic
 cangoonline.com                                                      /223.5.5.5/nic
@@ -20469,6 +20472,7 @@ chacheku.com                                                         /223.5.5.5/
 chachengji.com                                                       /223.5.5.5/nic
 chacihai.com                                                         /223.5.5.5/nic
 chacuo.net                                                           /223.5.5.5/nic
+chadaodao.com                                                        /223.5.5.5/nic
 chadianhua.net                                                       /223.5.5.5/nic
 chadoc.com                                                           /223.5.5.5/nic
 chaej.com                                                            /223.5.5.5/nic
@@ -34396,6 +34400,7 @@ feierlaiedu.com                                                      /223.5.5.5/
 feiersmart.com                                                       /223.5.5.5/nic
 feifandesign.com                                                     /223.5.5.5/nic
 feifanindustry.com                                                   /223.5.5.5/nic
+feifanmi.com                                                         /223.5.5.5/nic
 feifantxt.com                                                        /223.5.5.5/nic
 feifantxt.net                                                        /223.5.5.5/nic
 feifdx.com                                                           /223.5.5.5/nic
@@ -75125,6 +75130,7 @@ qingmuxinli.com                                                      /223.5.5.5/
 qingnianlvxing.com                                                   /223.5.5.5/nic
 qingniantuzhai.com                                                   /223.5.5.5/nic
 qingnianwang.com                                                     /223.5.5.5/nic
+qingning88.com                                                       /223.5.5.5/nic
 qingpanduola.com                                                     /223.5.5.5/nic
 qingpin.vip                                                          /223.5.5.5/nic
 qingping.co                                                          /223.5.5.5/nic
@@ -92115,6 +92121,7 @@ uniostay.com                                                         /223.5.5.5/
 uniow.com                                                            /223.5.5.5/nic
 unipack-tech.com                                                     /223.5.5.5/nic
 uniproud.com                                                         /223.5.5.5/nic
+unisapps.com                                                         /223.5.5.5/nic
 uniscope.com                                                         /223.5.5.5/nic
 unisdigital.com                                                      /223.5.5.5/nic
 unisedu.com                                                          /223.5.5.5/nic
