@@ -111881,6 +111881,7 @@ full:a2.mzstatic.com                                                 /223.5.5.5/
 full:a3.mzstatic.com                                                 /223.5.5.5/nic
 full:a4.mzstatic.com                                                 /223.5.5.5/nic
 full:a5.mzstatic.com                                                 /223.5.5.5/nic
+full:account-cn.alibabacloud.com                                     /223.5.5.5/nic
 full:activate.activation-v2.kaspersky.com                            /223.5.5.5/nic
 full:activation-v2.geo.kaspersky.com                                 /223.5.5.5/nic
 full:activation-v2.kaspersky.com                                     /223.5.5.5/nic
@@ -111903,6 +111904,7 @@ full:amp-api.music.apple.com                                         /223.5.5.5/
 full:aod-ssl.itunes.apple.com                                        /223.5.5.5/nic
 full:aod.itunes.apple.com                                            /223.5.5.5/nic
 full:api-edge.apps.apple.com                                         /223.5.5.5/nic
+full:api.alibabacloud.com                                            /223.5.5.5/nic
 full:app-analytics-services.com                                      /223.5.5.5/nic
 full:app-measurement-cn.com                                          /223.5.5.5/nic
 full:app-measurement.com                                             /223.5.5.5/nic
@@ -111976,6 +111978,7 @@ full:clientperipherals.dell.com                                      /223.5.5.5/
 full:clientservices.googleapis.com                                   /223.5.5.5/nic
 full:cma.itunes.apple.com                                            /223.5.5.5/nic
 full:cn-smp-paymentservices.apple.com                                /223.5.5.5/nic
+full:cn.alibabacloud.com                                             /223.5.5.5/nic
 full:cn.download.nvidia.com                                          /223.5.5.5/nic
 full:cn.widevine.com                                                 /223.5.5.5/nic
 full:cn.windowssearch.com                                            /223.5.5.5/nic
@@ -112369,6 +112372,7 @@ full:staging-databe.floonet.goog                                     /223.5.5.5/
 full:staging.databe.floonet.goog                                     /223.5.5.5/nic
 full:static.gc.apple.com                                             /223.5.5.5/nic
 full:statics.teams.cdn.office.net                                    /223.5.5.5/nic
+full:status.alibabacloud.com                                         /223.5.5.5/nic
 full:stocks-sparkline-lb.apple.com.akadns.net                        /223.5.5.5/nic
 full:stocks-sparkline.apple.com                                      /223.5.5.5/nic
 full:store.apple.com                                                 /223.5.5.5/nic
