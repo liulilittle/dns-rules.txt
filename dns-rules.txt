@@ -58788,7 +58788,6 @@ kscdns.com                                                           /223.5.5.5/
 kschuangku.com                                                       /223.5.5.5/nic
 kscloudapi.com                                                       /223.5.5.5/nic
 ksco.cc                                                              /223.5.5.5/nic
-kscord.com                                                           /223.5.5.5/nic
 ksdedu.com                                                           /223.5.5.5/nic
 ksdhgy.com                                                           /223.5.5.5/nic
 ksecit.com                                                           /223.5.5.5/nic
