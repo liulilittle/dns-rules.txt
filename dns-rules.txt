@@ -7786,6 +7786,7 @@
 777haoka.com                                                         /223.5.5.5/nic
 777lala.com                                                          /223.5.5.5/nic
 777moban.com                                                         /223.5.5.5/nic
+777ppt.com                                                           /223.5.5.5/nic
 777sy.com                                                            /223.5.5.5/nic
 777yh.am                                                             /223.5.5.5/nic
 7788.com                                                             /223.5.5.5/nic
@@ -10295,6 +10296,7 @@ admin5.com                                                           /223.5.5.5/
 admin5.net                                                           /223.5.5.5/nic
 admin6.com                                                           /223.5.5.5/nic
 admin88.com                                                          /223.5.5.5/nic
+admincdn.com                                                         /223.5.5.5/nic
 adminer.com                                                          /223.5.5.5/nic
 admintony.com                                                        /223.5.5.5/nic
 adminxe.com                                                          /223.5.5.5/nic
@@ -15143,6 +15145,7 @@ beidouone.com                                                        /223.5.5.5/
 beidousafety.org                                                     /223.5.5.5/nic
 beidouxingxueche.com                                                 /223.5.5.5/nic
 beiduolab.com                                                        /223.5.5.5/nic
+beie.org                                                             /223.5.5.5/nic
 beierbio.com                                                         /223.5.5.5/nic
 beierjin.net                                                         /223.5.5.5/nic
 beieryouxi.com                                                       /223.5.5.5/nic
@@ -40043,6 +40046,7 @@ guojianglive.com                                                     /223.5.5.5/
 guojiayikao.com                                                      /223.5.5.5/nic
 guojiayixuekaoshi.com                                                /223.5.5.5/nic
 guojiazhiyezige.com                                                  /223.5.5.5/nic
+guojibk.com                                                          /223.5.5.5/nic
 guojiexpress.com                                                     /223.5.5.5/nic
 guojijinjia.com                                                      /223.5.5.5/nic
 guojimami.com                                                        /223.5.5.5/nic
@@ -77796,6 +77800,7 @@ rrioo.com                                                            /223.5.5.5/
 rrjc.com                                                             /223.5.5.5/nic
 rrkf.com                                                             /223.5.5.5/nic
 rrky.com                                                             /223.5.5.5/nic
+rrmj.plus                                                            /223.5.5.5/nic
 rrmj.tv                                                              /223.5.5.5/nic
 rrppt.com                                                            /223.5.5.5/nic
 rrrdai.com                                                           /223.5.5.5/nic
@@ -89652,6 +89657,7 @@ token-sensor.com                                                     /223.5.5.5/
 tokenglish.com                                                       /223.5.5.5/nic
 tokensky.net                                                         /223.5.5.5/nic
 tokimekiclub.org                                                     /223.5.5.5/nic
+tol.vip                                                              /223.5.5.5/nic
 tol24.com                                                            /223.5.5.5/nic
 tom.cat                                                              /223.5.5.5/nic
 tom.com                                                              /223.5.5.5/nic
@@ -93361,6 +93367,7 @@ vpspurchase.com                                                      /223.5.5.5/
 vpsrb.com                                                            /223.5.5.5/nic
 vpsss.net                                                            /223.5.5.5/nic
 vpssw.com                                                            /223.5.5.5/nic
+vpsvs.com                                                            /223.5.5.5/nic
 vpsvsvps.com                                                         /223.5.5.5/nic
 vpszh.com                                                            /223.5.5.5/nic
 vptek.com                                                            /223.5.5.5/nic
@@ -95046,6 +95053,7 @@ wenmeng.com                                                          /223.5.5.5/
 wenmi114.com                                                         /223.5.5.5/nic
 wenmingban.com                                                       /223.5.5.5/nic
 wenneart.com                                                         /223.5.5.5/nic
+wenpai.org                                                           /223.5.5.5/nic
 wenpie.com                                                           /223.5.5.5/nic
 wenqy.com                                                            /223.5.5.5/nic
 wenroo.com                                                           /223.5.5.5/nic
@@ -96669,6 +96677,7 @@ wpan123.com                                                          /223.5.5.5/
 wpceo.com                                                            /223.5.5.5/nic
 wpcio.com                                                            /223.5.5.5/nic
 wpcsh.com                                                            /223.5.5.5/nic
+wpcy.com                                                             /223.5.5.5/nic
 wpdaxue.com                                                          /223.5.5.5/nic
 wpdian.com                                                           /223.5.5.5/nic
 wpengapp.com                                                         /223.5.5.5/nic
