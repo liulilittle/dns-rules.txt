@@ -12253,6 +12253,7 @@ anqingonline.com                                                     /223.5.5.5/
 anqingzhiyun.com                                                     /223.5.5.5/nic
 anqn.com                                                             /223.5.5.5/nic
 anqu.com                                                             /223.5.5.5/nic
+anquan                                                               /223.5.5.5/nic
 anquan.info                                                          /223.5.5.5/nic
 anquan.org                                                           /223.5.5.5/nic
 anquanbao.com                                                        /223.5.5.5/nic
@@ -32476,7 +32477,6 @@ embryform.com                                                        /223.5.5.5/
 embryochina.com                                                      /223.5.5.5/nic
 embsky.com                                                           /223.5.5.5/nic
 emby.men                                                             /223.5.5.5/nic
-emby.yun                                                             /223.5.5.5/nic
 embyvip.org                                                          /223.5.5.5/nic
 emcbj.com                                                            /223.5.5.5/nic
 emcdir.com                                                           /223.5.5.5/nic
@@ -81780,6 +81780,7 @@ shouhuigroup.com                                                     /223.5.5.5/
 shouhuisoft.com                                                      /223.5.5.5/nic
 shouhuojiyun.com                                                     /223.5.5.5/nic
 shouhuola.com                                                        /223.5.5.5/nic
+shouji                                                               /223.5.5.5/nic
 shouji.com                                                           /223.5.5.5/nic
 shouji.racing                                                        /223.5.5.5/nic
 shouji10086.com                                                      /223.5.5.5/nic
@@ -82687,6 +82688,7 @@ simuwang.com                                                         /223.5.5.5/
 simwe.com                                                            /223.5.5.5/nic
 simxhs.com                                                           /223.5.5.5/nic
 sin0sites.com                                                        /223.5.5.5/nic
+sina                                                                 /223.5.5.5/nic
 sina-cf.com                                                          /223.5.5.5/nic
 sina.com                                                             /223.5.5.5/nic
 sina.lt                                                              /223.5.5.5/nic
@@ -94562,6 +94564,7 @@ weibanan.com                                                         /223.5.5.5/
 weibang.vip                                                          /223.5.5.5/nic
 weibangong.com                                                       /223.5.5.5/nic
 weibanzhushou.com                                                    /223.5.5.5/nic
+weibo                                                                /223.5.5.5/nic
 weibo.com                                                            /223.5.5.5/nic
 weibo.tv                                                             /223.5.5.5/nic
 weibocdn.com                                                         /223.5.5.5/nic
@@ -99282,6 +99285,7 @@ xihaxueche.com                                                       /223.5.5.5/
 xihazsww.com                                                         /223.5.5.5/nic
 xihegp.com                                                           /223.5.5.5/nic
 xiherencai.com                                                       /223.5.5.5/nic
+xihuan                                                               /223.5.5.5/nic
 xihuan.me                                                            /223.5.5.5/nic
 xihusgh.com                                                          /223.5.5.5/nic
 xiimoon.com                                                          /223.5.5.5/nic
@@ -100575,6 +100579,7 @@ xn--8y0a063a                                                         /223.5.5.5/
 xn--91-y60d638c.xyz                                                  /223.5.5.5/nic
 xn--9et52u                                                           /223.5.5.5/nic
 xn--9kr72kqwe.com                                                    /223.5.5.5/nic
+xn--9krt00a                                                          /223.5.5.5/nic
 xn--9myo55bi8l.com                                                   /223.5.5.5/nic
 xn--9pr56vfna007k.com                                                /223.5.5.5/nic
 xn--9pry86bq5ex68c.org                                               /223.5.5.5/nic
@@ -105882,6 +105887,7 @@ yumingguwen.com                                                      /223.5.5.5/
 yumingyouhui.com                                                     /223.5.5.5/nic
 yummy.tech                                                           /223.5.5.5/nic
 yumstone.com                                                         /223.5.5.5/nic
+yun                                                                  /223.5.5.5/nic
 yun-ac.com                                                           /223.5.5.5/nic
 yun-dns.com                                                          /223.5.5.5/nic
 yun-gu.com                                                           /223.5.5.5/nic
@@ -111928,6 +111934,7 @@ full:edge.geo.kaspersky.com                                          /223.5.5.5/
 full:emoi-cncdn.bing.com                                             /223.5.5.5/nic
 full:end-api.shallow.ink                                             /223.5.5.5/nic
 full:end.shallow.ink                                                 /223.5.5.5/nic
+full:entitlements-edge.itunes.apple.com                              /223.5.5.5/nic
 full:experiments.apple.com                                           /223.5.5.5/nic
 full:f.c2r.ts.cdn.office.net                                         /223.5.5.5/nic
 full:fcs.dell.com                                                    /223.5.5.5/nic
@@ -111936,6 +111943,7 @@ full:firebase-settings.crashlytics.com                               /223.5.5.5/
 full:fontfiles.googleapis.com                                        /223.5.5.5/nic
 full:fonts.googleapis.com                                            /223.5.5.5/nic
 full:fonts.gstatic.com                                               /223.5.5.5/nic
+full:fpinit.itunes.apple.com                                         /223.5.5.5/nic
 full:fta.dell.com                                                    /223.5.5.5/nic
 full:ftaapj.dell.com                                                 /223.5.5.5/nic
 full:ftaemea.dell.com                                                /223.5.5.5/nic
