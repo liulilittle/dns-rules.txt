@@ -111467,6 +111467,8 @@ full:time.amazonaws.cn                                               /223.5.5.5/
 full:time.izatcloud.net                                              /223.5.5.5/nic
 full:time.xtracloud.net                                              /223.5.5.5/nic
 full:tj-pod1-smp-device.apple.com                                    /223.5.5.5/nic
+full:tj-pod2-smp-device.apple.com                                    /223.5.5.5/nic
+full:tj-pod3-smp-device.apple.com                                    /223.5.5.5/nic
 full:tools.google.com                                                /223.5.5.5/nic
 full:tp.louisvuitton.com                                             /223.5.5.5/nic
 full:universal-activity-service.itunes.apple.com                     /223.5.5.5/nic
